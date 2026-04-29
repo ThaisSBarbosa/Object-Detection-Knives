@@ -1,4 +1,4 @@
-# Hackathon - TC5 - FIAP IA para Devs
+# TC5 - FIAP
 
 ## Descrição
 Este projeto utiliza o modelo YOLOv8 para detectar objetos cortantes (como facas) em vídeos. Ele também emite alertas por e-mail com uma imagem capturada do objeto detectado. O código foi desenvolvido para ser executado em qualquer IDE que suporte Python.
